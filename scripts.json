@@ -1,0 +1,62 @@
+{
+  "rivals": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zeynwq/main/main/rivals1\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "doors": {
+    "script": "loadstring(game:HttpGet(\"https://orbitsc.net/doors\"))()",
+    "key_needed": true,
+    "executors": ["All"]
+  },
+  "animal_simulator": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/AnimalSimulator.lua\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "animal_simulator2": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/AnimalSimulator.lua\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "stealabrainrot_haptichub": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Haptic81/HapticHub/refs/heads/main/HapticHub.luau\", true))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "stealabrainrot_airjump": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sufyan123-bit/Scripts/refs/heads/main/stealsbrainrotmainscript.lua\", true))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "stealabrainrot_op": {
+    "script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/7d8a2a1a9a562a403b52532e58a14065.lua\"))()",
+    "key_needed": true,
+    "executors": ["All"]
+  },
+  "stealabrainrot_infinitejump": {
+    "script": "loadstring(game:HttpGet(\"https://pastefy.app/AHeQea76/raw\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "99nightsintheforest": {
+    "script": "loadstring(game:HttpGet(\"https://pandadevelopment.net/virtual/file/2ed004f44a63f42d\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "bloxfruits": {
+    "script": "_G.settings = {\n    autoLoadConfig = false,\n    joinTeam = \"Pirates\"\n}\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/RO-HUB-CODEX/RO-HUB/refs/heads/main/bloxfruits.lua\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "growagarden": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nootmaus/GrowAAGarden/refs/heads/main/mauscripts\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  },
+  "mm2": {
+    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
+    "key_needed": false,
+    "executors": ["All"]
+  }
+}
